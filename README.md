@@ -2,7 +2,7 @@
 
 ### WACV 2025
 
-### Project Page  | Paper
+### [Project Page](https://arxiv.org/pdf/2411.04249)  | [Paper](https://arxiv.org/pdf/2411.04249)
 
 **[Siddharth Seth](https://sidsunny.github.io/)<sup>1</sup>, [Rishabh Dabral](https://rishabhdabral.github.io/)<sup>2</sup>, [Diogo Luvizon](https://dluvizon.github.io/)<sup>2</sup>, [Marc Habermann](https://people.mpi-inf.mpg.de/~mhaberma/)<sup>2</sup>, [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/)<sup>1</sup>, [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/)<sup>2</sup>, [Adam Kortylewski](https://genintel.mpi-inf.mpg.de/)<sup>2,3</sup>** <br>
 <sup>1</sup>UC Merced, <sup>2</sup>Max Planck Institute for Informatics, <sup>3</sup>University of Freiburg
