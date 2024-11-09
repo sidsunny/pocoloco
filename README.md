@@ -21,5 +21,5 @@
 ## Code setup
 To be released soon
 
-## Dataset
+## LOOSE Dataset
 To be released soon
