@@ -19,7 +19,7 @@
 </details>
 
 ## Code setup
-To be released soon
+Anticipated release date: July 1, 2025
 
 ## LOOSE Dataset
 To be released soon
