@@ -19,7 +19,9 @@
 </details>
 
 ## Code setup
-Anticipated release date: July 1, 2025
+~~Anticipated release date: July 1, 2025~~ Released.
+An initial version of the training code has been released. While this is forked from the working code, it is still pending cleanup and may require minor modifications to run as intended.
+The code contains all the elements for training a point-based 3D avatar model - data loader, file utilities, and training.
 
 ## LOOSE Dataset
 To be released soon
